@@ -16,4 +16,14 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ### View UI of this project
-![page-home](./page-home.jpg)
+
+<p align="center">
+  <img src="./page-home.jpg" width="30%" />
+  <img src="./page-history.jpg" width="30%" />
+  <img src="./page-transaction.jpg" width="30%" />
+</p>
+
+<p align="center">
+  <img src="./page-summary.jpg" width="30%" />
+  <img src="./page-filter.jpg" width="30%" />
+</p>
